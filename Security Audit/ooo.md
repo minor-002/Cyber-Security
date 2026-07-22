@@ -1,6 +1,7 @@
 Audit Scope and Goals
 
-Summary: The internal audit needs to align current business practices with industry standards and best practices. The audit is meant to provide mitigation recommendations for vulnerabilities found that are classified as “high risk,” and present an overall strategy to improve the security posture of the organization. The audit team needs to document their findings, provide remediation plans and efforts, and communicate with stakeholders.
+Summary: 
+The internal audit needs to align current business practices with industry standards and best practices. The audit is meant to provide mitigation recommendations for vulnerabilities found that are classified as “high risk,” and present an overall strategy to improve the security posture of the organization. The audit team needs to document their findings, provide remediation plans and efforts, and communicate with stakeholders.
 Scope: The internal IT audit will assess the following:
 
 ●	Assess user permissions
@@ -8,6 +9,7 @@ Scope: The internal IT audit will assess the following:
 ●	Identify existing controls, procedures, and system protocols
 
 ●	Account for technology currently in use
+
 
 
 Goals: The goals for the internal IT audit are:
@@ -20,23 +22,6 @@ Goals: The goals for the internal IT audit are:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Risk Assessment
 
 Current assets
@@ -45,6 +30,7 @@ Assets managed by the IT Department include:
 ●	Employee equipment: end-user devices (desktops/laptops, smartphones), remote workstations, headsets, cables, keyboards, mice, docking stations, surveillance cameras, etc.
 
 ●	Internal network: protected storage of customer, vendor, organizational data
+
 
 Risk description
 Currently, there is inadequate management of assets. Additionally, proper controls are not in place and the organization may not be compliant with U.S. and international compliance regulations and standards. 
@@ -120,7 +106,7 @@ Locks	Preventative; physical and digital assets are more secure	X	High
 
 Compliance Checklist
 
-	General Data Protection Regulation (GDPR)
+General Data Protection Regulation (GDPR)
 GDPR is a European Union (EU) general data regulation that protects the processing of EU citizens’ data and their right to privacy in and out of EU territory. Additionally, if a breach occurs and a EU citizen’s data is compromised, they must be informed within 72 hours of the incident.
 Explanation: The organization needs to adhere to GDPR because we conduct business and collect personal information from people in the EU.
 	Payment Card Industry Data Security Standard (PCI DSS)
